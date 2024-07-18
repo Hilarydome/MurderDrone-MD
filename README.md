@@ -54,8 +54,8 @@
 
 | TEMA | DESCRIPCIÓN | ATAJO |
 |------|-------------|-------|
-| **TERMUX** | ***INSTALACIÓN AUTOMÁTICA*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-1-instalación-automática-por-termux-) |
-| **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-2-instalación-manual-por-termux---github) |
+| **TERMUX** | ***INSTALACIÓN AUTOMÁTICA*** |[ver](https://github.com/Hilarydome/MurderDrone-MD/#-opción-1-instalación-automática-por-termux-) |
+| **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver] (https://github.com/Hilarydome/MurderDrone-MD/#-opción-2-instalación-manual-por-termux---github) |
 | **TERMUX** | ***INSTALACIÓN POR ARCHIVOS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-3-instalación-por-termux---archivos) |
 | **TERMUX 24/7** | ***COMANDOS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-usar-gatabot-247-en-termux) |
 | **TERMUX UPDATE** | ***COMANDOS PARA ACTUALIZAR GATABOT*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-actualizar-gatabot) |
